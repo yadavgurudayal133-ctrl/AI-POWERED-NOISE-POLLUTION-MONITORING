@@ -1,0 +1,14 @@
+{
+  "historicalData": {
+    "seed": "noise-viz",
+    "width": 800,
+    "height": 400,
+    "url": "https://picsum.photos/seed/noise-viz/800/400"
+  },
+  "healthSuggestionsCard": {
+    "seed": "zen-health",
+    "width": 400,
+    "height": 500,
+    "url": "https://picsum.photos/seed/zen-health/400/500"
+  }
+}
